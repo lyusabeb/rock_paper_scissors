@@ -38,3 +38,4 @@ bp = tk.Button(root, text="Бумага", command=lambda: on_button_click('бу�
 bp.pack(side=tk.LEFT, padx=10, pady=10)
 
 root.mainloop()
+
